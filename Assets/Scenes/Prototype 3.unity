@@ -616,6 +616,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: 0703a1849c2c89b4db4568688faf0c5f, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0703a1849c2c89b4db4568688faf0c5f, type: 3}
 --- !u!1 &2140414879
@@ -647,7 +651,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a0dcad6736a0e34eb173a664a772531, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  obstaclePrefab: {fileID: 8548103307238287680, guid: 9d15856bcc9c21b4ebc005286e9625b0,
+  obstaclePrefab: {fileID: 6190444829959708665, guid: a61eb6998138ef64bbfd151bde9fb5de,
     type: 3}
 --- !u!4 &2140414881
 Transform:
